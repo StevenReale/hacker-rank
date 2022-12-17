@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EulerExercise002">
     <configuration name="EulerExercise001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="steven.reale.EulerExercise001" />
       <module name="hacker-rank" />
@@ -41,8 +41,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EulerExercise002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="steven.reale.EulerExercise002" />
+      <module name="hacker-rank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steven.reale.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EulerExercise002" />
         <item itemvalue="Application.EulerExercise001" />
       </list>
     </recent_temporary>

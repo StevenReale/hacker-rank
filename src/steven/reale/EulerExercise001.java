@@ -32,5 +32,5 @@ public class EulerExercise001 {
         System.out.println(multipleSum(1000000000));
 
     }
-    
+
 }
