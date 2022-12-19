@@ -1,6 +1,10 @@
 package steven.reale;
 import java.util.Scanner;
 
+/*
+Returns the sum of all even Fibonacci numbers that are less than a given N.
+ */
+
 public class EulerExercise002 {
 
     public static long evenFib(long maxValue) {
@@ -20,11 +24,6 @@ public class EulerExercise002 {
     }
 
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int t = in.nextInt();
-        for(int a0 = 0; a0 < t; a0++){
-            long n = in.nextLong();
-            System.out.println(evenFib(n));
-        }
+        System.out.println(evenFib(100000000));
     }
 }

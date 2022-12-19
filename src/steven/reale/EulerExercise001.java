@@ -1,5 +1,9 @@
 package steven.reale;
 
+/*
+Returns the sum of all multiples of 3 and 5 that are less than a given N.
+ */
+
 public class EulerExercise001 {
 
     public static long multipleSum (long n) {
