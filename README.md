@@ -1,4 +1,4 @@
-<!-- Concept and Inspiration by Jerry Balderas -->
+<!-- Concept and Inspiration by Jerry Balderas ( https://github.com/midnjerry/HackerRank )-->
 
 <p align="center"> <a href = "https://www.hackerrank.com/StevenMReale"><img src = "hackerrank_logo.png"></a> </p>
 <h1 align = "center">Project Euler+ Solutions by Steven Reale</h2>
