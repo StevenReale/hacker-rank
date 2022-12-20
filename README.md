@@ -11,4 +11,4 @@
 | **Problem 3:** [Largest Prime Factor](https://www.hackerrank.com/contests/projecteuler/challenges/euler003/)    | 100.0 | [Solution](https://github.com/StevenReale/hacker-rank/blob/66f0d5c1ce6b0f2c06cba669867d3663817e6068/src/steven/reale/EulerExercise003.java) |
 | **Problem 4:** [Largest Palindrome Product](https://www.hackerrank.com/contests/projecteuler/challenges/euler003/)    | 33.3[^1] | [Solution](https://github.com/StevenReale/hacker-rank/blob/181333ac7f8eda8368e2c74e0c3dc1a6854b9bab/src/steven/reale/EulerExercise004.java) |
 
-[^1]You better believe I'm not giving up yet.
+[^1]: You better believe I'm not giving up yet.
