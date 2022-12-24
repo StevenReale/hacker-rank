@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.EulerExercise004">
+  <component name="RunManager" selected="Application.EulerExercise005">
     <configuration name="EulerExercise001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="steven.reale.EulerExercise001" />
       <module name="hacker-rank" />
@@ -80,8 +80,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EulerExercise005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="steven.reale.EulerExercise005" />
+      <module name="hacker-rank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steven.reale.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EulerExercise005" />
         <item itemvalue="Application.EulerExercise004" />
         <item itemvalue="Application.EulerExercise003" />
         <item itemvalue="Application.EulerExercise002" />
@@ -108,9 +122,9 @@
           <option name="timeStamp" value="5" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/steven/reale/EulerExercise003.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="7" />
+          <url>file://$PROJECT_DIR$/src/steven/reale/EulerExercise005.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
