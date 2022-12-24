@@ -11,5 +11,6 @@
 | **Problem 3:** [Largest Prime Factor](https://www.hackerrank.com/contests/projecteuler/challenges/euler003/)    | 100.0 | [Solution](src/steven/reale/EulerExercise003.java) |
 | **Problem 4:** [Largest Palindrome Product](https://www.hackerrank.com/contests/projecteuler/challenges/euler004/)    | 33.3[^1] | [Solution](src/steven/reale/EulerExercise004.java) |
 | **Problem 5:** [Smallest Multiple](https://www.hackerrank.com/contests/projecteuler/challenges/euler005/)    | 100.0 | [Solution](src/steven/reale/EulerExercise005.java) |
+| **Problem 6:** [Sum Square Difference](https://www.hackerrank.com/contests/projecteuler/challenges/euler006/)    | 100.0 | [Solution](src/steven/reale/EulerExercise006.java) |
 
 [^1]: You better believe I'm not giving up yet.
