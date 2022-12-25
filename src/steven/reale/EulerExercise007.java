@@ -5,8 +5,9 @@ import java.util.List;
 
 public class EulerExercise007 {
 
+    private static List<Integer> primeList = new ArrayList<>();
+
     private static int nthPrime(int testNum) {
-        List<Integer> primeList = new ArrayList<>();
         if (primeList.size() == 0) {
             primeList.add(2);
             primeList.add(3);

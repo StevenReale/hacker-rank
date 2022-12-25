@@ -4,11 +4,12 @@ import java.util.*;
 
 public class EulerExercise003 {
 
-    public static List<Long> listOfPrimes = new ArrayList<>();
+    private static List<Long> listOfPrimes = new ArrayList<>();
 
-    public static long largestPrimeFactor(long startingNum) {
+    private static long largestPrimeFactor(long startingNum) {
         if (listOfPrimes.size() == 0) {
             listOfPrimes.add(2L);
+            listOfPrimes.add(3L);
         }
 
         long currentPrime = listOfPrimes.get(0);
@@ -30,16 +31,13 @@ public class EulerExercise003 {
             } else {
                 currentPrime = getNextPrime(currentPrime);
             }
-
-
         }
 
         return startingNum;
     }
 
-
     public static long getNextPrime(long previousPrime) {
-        long nextPrime = (previousPrime == 2 ? previousPrime + 1 : previousPrime + 2);
+        long nextPrime = previousPrime + 2;
         boolean confirmedNotPrime = false;
 
         while (true) {
