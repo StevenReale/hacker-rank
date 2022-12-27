@@ -6,7 +6,7 @@ Returns the sum of all multiples of 3 and 5 that are less than a given N.
 
 public class EulerExercise001 {
 
-    public static long multipleSum (long n) {
+    private static long multipleSum (long n) {
         long multiplesOfThree = (n - 1) / 3;
         long multiplesOfFive = (n - 1) / 5;
         long multiplesOfFifteen = (n - 1) / 15;
@@ -17,11 +17,11 @@ public class EulerExercise001 {
         return sumOfAllThrees + sumOfAllFives - sumOfAllFifteens;
     }
 
-    public static long sumOfAll(long multiplesCount, long multiplesOf) {
+    private static long sumOfAll(long multiplesCount, long multiplesOf) {
         return multiplesCount * (multiplesCount + 1) * multiplesOf / 2;
     }
 
-    public static long multipleSumBruteForce (int n) {
+    private static long multipleSumBruteForce (int n) {
         int maxLoop = n;
         long runningSum = 0;
         for (int i = 3; i < maxLoop; i++) {

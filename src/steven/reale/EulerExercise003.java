@@ -36,7 +36,7 @@ public class EulerExercise003 {
         return startingNum;
     }
 
-    public static long getNextPrime(long previousPrime) {
+    private static long getNextPrime(long previousPrime) {
         long nextPrime = previousPrime + 2;
         boolean confirmedNotPrime = false;
 

@@ -6,7 +6,7 @@ public class EulerExercise004 {
     Finds the first 6-digit palindromic number less than a given N that is the product of two 3-digit numbers.
      */
 
-    public static int palindrome(int input) {
+    private static int palindrome(int input) {
         String[] strInput = Integer.toString(input).split("");
         int[] intArray = stringArrToIntArr(strInput);
         int testInt;
@@ -32,7 +32,7 @@ public class EulerExercise004 {
     }
 
     //tests if an integer can be expressed as the product of two 3-digit integers
-    public static boolean isThreeDigitDivisible(int testNum) {
+    private static boolean isThreeDigitDivisible(int testNum) {
         for (int testDivisor = 100; testDivisor <= 999; testDivisor++) {
             if (testNum % testDivisor == 0 && testNum / testDivisor >= 100 && testNum / testDivisor <= 999) {
                 System.out.println(testNum + " divided by " + testDivisor + " equals " + testNum / testDivisor);
@@ -43,7 +43,7 @@ public class EulerExercise004 {
     }
 
     //constructs a 6-digit palindrome given first three digits
-    public static int makePalindrome(int startNum) {
+    private static int makePalindrome(int startNum) {
         int[] intArray = stringArrToIntArr(Integer.toString(startNum).split(""));
         int palindrome = intArray[0] + 10 * intArray[1] + 100 * intArray[2] + 1000 * intArray[2] + 10000 * intArray[1] + 100000 * intArray[0];
         System.out.println("Palindrome found: " + palindrome);
@@ -52,7 +52,7 @@ public class EulerExercise004 {
 
 
     //given an array of integers cast as strings, returns a corresponding array of integers
-    public static int[] stringArrToIntArr(String[] inputString) {
+    private static int[] stringArrToIntArr(String[] inputString) {
         int numberOfDigits = inputString.length;
         int[] intArray = new int[numberOfDigits];
 
@@ -63,7 +63,7 @@ public class EulerExercise004 {
     }
 
     //test if a 6-entry integer array is a palindrome
-    public static boolean isPalindrome(int[] intArray) {
+    private static boolean isPalindrome(int[] intArray) {
         int arrLength = intArray.length;
         return (intArray[0] == intArray[arrLength - 1] && intArray[1] == intArray[arrLength - 2] && (intArray[2] == intArray[3]) || arrLength == 5);
     }

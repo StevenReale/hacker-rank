@@ -7,7 +7,7 @@ Returns the sum of all even Fibonacci numbers that are less than a given N.
 
 public class EulerExercise002 {
 
-    public static long evenFib(long maxValue) {
+    private static long evenFib(long maxValue) {
         long evenSum = 0;
         long firstDigit = 1;
         long secondDigit = 1;
