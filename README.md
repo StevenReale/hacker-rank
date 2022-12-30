@@ -14,5 +14,6 @@
 | **Problem 6:** [Sum Square Difference](https://www.hackerrank.com/contests/projecteuler/challenges/euler006/)       | 100.0 | [Solution](src/steven/reale/EulerExercise006.java) |
 | **Problem 7:** [10001st Prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007/)               | 100.0 | [Solution](src/steven/reale/EulerExercise007.java) |
 | **Problem 8:** [Largest Product in a Series](https://www.hackerrank.com/contests/projecteuler/challenges/euler008/) | 100.0 | [Solution](src/steven/reale/EulerExercise008.java) |
+| **Problem 9:** [Special Pythagorean Triplet](https://www.hackerrank.com/contests/projecteuler/challenges/euler009/) | 100.0 | [Solution](src/steven/reale/EulerExercise009.java) |
 
 [^1]: You better believe I'm not giving up yet.
