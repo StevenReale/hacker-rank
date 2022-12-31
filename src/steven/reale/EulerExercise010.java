@@ -1,13 +1,39 @@
 package steven.reale;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
+
+
 
 /*
 Returns the sum of all primes less than a given N.
  */
 
 public class EulerExercise010 {
+
+    // adapted pseudocode from https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#Pseudocode
+    private static int sieveOfEratosthenes(int given){
+        if (given < 2) return 0;
+        if (given == 2) return 2;
+
+        boolean[] primes = new boolean[given+1];
+        Arrays.fill(primes, true);
+        int primeSum = 0;
+
+        for (int i = 2; i <= given; i++) {
+            if (primes[i]) {
+                System.out.println(i + " is prime");
+                primeSum += i;
+                for (int j = i * i; j <= given; j += i) {
+                    primes[j] = false;
+                }
+            }
+        }
+
+        return primeSum;
+
+    }
 
     private static List<Integer> primes = new ArrayList<>();
     private static List<Integer> primeSums = new ArrayList<>();
@@ -78,6 +104,6 @@ public class EulerExercise010 {
     }
 
     public static void main(String[] args) {
-        System.out.println(primesUnder(5));
+        System.out.println(sieveOfEratosthenes(13));
     }
 }
