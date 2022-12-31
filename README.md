@@ -16,5 +16,6 @@
 | **Problem 8:** [Largest Product in a Series](https://www.hackerrank.com/contests/projecteuler/challenges/euler008/) | 100.0     | [Solution](src/steven/reale/EulerExercise008.java) |
 | **Problem 9:** [Special Pythagorean Triplet](https://www.hackerrank.com/contests/projecteuler/challenges/euler009/) | 100.0     | [Solution](src/steven/reale/EulerExercise009.java) |
 | **Problem 10:** [Summation of Primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler010/)        | 71.43[^1] | [Solution](src/steven/reale/EulerExercise010.java) |
+| **Problem 11:** [Largest Product in a Grid](https://www.hackerrank.com/contests/projecteuler/challenges/euler011/)  | 100.0     | [Solution](src/steven/reale/EulerExercise011.java) |
 
 [^1]: You better believe I'm not giving up yet.
