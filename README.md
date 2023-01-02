@@ -18,5 +18,6 @@
 | **Problem 10:** [Summation of Primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler010/)               | 71.43[^1] | [Solution](src/steven/reale/EulerExercise010.java) |
 | **Problem 11:** [Largest Product in a Grid](https://www.hackerrank.com/contests/projecteuler/challenges/euler011/)         | 100.0     | [Solution](src/steven/reale/EulerExercise011.java) |
 | **Problem 12:** [Highly Divisble Triangular Number](https://www.hackerrank.com/contests/projecteuler/challenges/euler012/) | 69.23[^1] | [Solution](src/steven/reale/EulerExercise012.java) |
+| **Problem 13:** [Large Sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler013/)                         | 100.0     | [Solution](src/steven/reale/EulerExercise013.java) |
 
 [^1]: You better believe I'm not giving up yet.
