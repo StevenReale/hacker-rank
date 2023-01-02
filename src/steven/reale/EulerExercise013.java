@@ -17,7 +17,7 @@ public class EulerExercise013 {
 
         for (int i = 0; i < n; i++) {
             String nextValue = scanner.nextLine();
-            sum = sum.add(BigInteger(nextValue));
+            sum = sum.add(new BigInteger(nextValue));
 
         }
         String resultString = sum.toString();
