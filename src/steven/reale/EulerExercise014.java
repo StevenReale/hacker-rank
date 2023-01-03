@@ -1,10 +1,11 @@
 package steven.reale;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
+/*
+Finds the largest starting number for the longest Collatz chain with a starting number smaller than a given N.
+ */
 
 public class EulerExercise014 {
     private static Map<Long, Long> collatzPairs = new HashMap<>();

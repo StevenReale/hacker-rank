@@ -1,7 +1,8 @@
 package steven.reale;
 
-import java.util.ArrayList;
-import java.util.List;
+/*
+Returns the first triangular number to have more than a given N divisors
+ */
 
 public class EulerExercise012 {
 

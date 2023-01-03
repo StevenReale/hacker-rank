@@ -2,6 +2,10 @@ package steven.reale;
 
 import java.util.*;
 
+/*
+Returns the largest prime factor of a given N.
+ */
+
 public class EulerExercise003 {
 
     private static List<Long> listOfPrimes = new ArrayList<>();

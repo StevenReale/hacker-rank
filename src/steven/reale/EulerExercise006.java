@@ -1,5 +1,9 @@
 package steven.reale;
 
+/*
+Given an N, returns the absolute difference between a) the sum of all squares integers 1 through N, and b) the square of the sum of all integers 1 through N
+ */
+
 public class EulerExercise006 {
 
     private static long sumSquareDiff(int givenNum) {

@@ -4,8 +4,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-
-
 /*
 Returns the sum of all primes less than a given N.
  */

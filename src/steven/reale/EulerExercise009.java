@@ -1,5 +1,9 @@
 package steven.reale;
 
+/*
+Finds the largest product a*b*c where a, b, and c are a Pythagorean triple such that a, b, and c sum to a given N
+ */
+
 public class EulerExercise009 {
 
     /*

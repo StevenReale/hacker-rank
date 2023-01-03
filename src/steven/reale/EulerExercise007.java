@@ -3,6 +3,10 @@ package steven.reale;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+Given N, returns the Nth prime number
+ */
+
 public class EulerExercise007 {
 
     private static List<Integer> primeList = new ArrayList<>();
