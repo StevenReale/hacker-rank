@@ -46,7 +46,7 @@ public class EulerExercise004 {
     private static int makePalindrome(int startNum) { //998
         int[] intArray = stringArrToIntArr(Integer.toString(startNum).split(""));
         int palindrome = intArray[0] + 10 * intArray[1] + 100 * intArray[2] + 1000 * intArray[2] + 10000 * intArray[1] + 100000 * intArray[0];
-        System.out.println("Palindrome found: " + palindrome);
+
         return palindrome;
     }
 
@@ -69,6 +69,11 @@ public class EulerExercise004 {
     }
 
     public static void main(String[] args) {
-        System.out.println(palindrome(101102));
+        int num = 999999;
+        while (num > 101101) {
+            num = palindrome(num);
+
+        }
+        //System.out.println(palindrome(821128));
     }
 }
