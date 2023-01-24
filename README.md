@@ -17,7 +17,7 @@
 | **Problem 9:** [Special Pythagorean Triplet](https://www.hackerrank.com/contests/projecteuler/challenges/euler009/)        | 100.0     | [Solution](src/steven/reale/EulerExercise009.java) |
 | **Problem 10:** [Summation of Primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler010/)               | 71.43[^1] | [Solution](src/steven/reale/EulerExercise010.java) |
 | **Problem 11:** [Largest Product in a Grid](https://www.hackerrank.com/contests/projecteuler/challenges/euler011/)         | 100.0     | [Solution](src/steven/reale/EulerExercise011.java) |
-| **Problem 12:** [Highly Divisble Triangular Number](https://www.hackerrank.com/contests/projecteuler/challenges/euler012/) | 69.23[^1] | [Solution](src/steven/reale/EulerExercise012.java) |
+| **Problem 12:** [Highly Divisible Triangular Number](https://www.hackerrank.com/contests/projecteuler/challenges/euler012/) | 69.23[^1] | [Solution](src/steven/reale/EulerExercise012.java) |
 | **Problem 13:** [Large Sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler013/)                         | 100.0     | [Solution](src/steven/reale/EulerExercise013.java) |
 | **Problem 14:** [Longest Collatz Sequence](https://www.hackerrank.com/contests/projecteuler/challenges/euler014/)          | 38.46[^1] | [Solution](src/steven/reale/EulerExercise014.java) |
 | **Problem 15:** [Lattice Paths](https://www.hackerrank.com/contests/projecteuler/challenges/euler015/)                     | 100.0     | [Solution](src/steven/reale/EulerExercise015.java) |
