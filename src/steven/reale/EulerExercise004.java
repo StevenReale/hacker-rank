@@ -13,9 +13,9 @@ public class EulerExercise004 {
 
         //if given integer is already a palindrome, decrements accordingly. Then, it determines the starting 2 or 3 digits with which to construct first palindrome to test
         if (isPalindrome(intArray)) {
-            intArray[2] -= 1;
+            intArray[2] -= 1; // 998 999
         }
-        testInt = 100 * intArray[0] + 10 * intArray[1] + intArray[2];
+        testInt = 100 * intArray[0] + 10 * intArray[1] + intArray[2]; //998
 
 
         //main processing loop. Calls methods to 1) construct palindromes from testInt, and 2) test whether palindrome can be expressed as product of two integers.
@@ -43,7 +43,7 @@ public class EulerExercise004 {
     }
 
     //constructs a 6-digit palindrome given first three digits
-    private static int makePalindrome(int startNum) {
+    private static int makePalindrome(int startNum) { //998
         int[] intArray = stringArrToIntArr(Integer.toString(startNum).split(""));
         int palindrome = intArray[0] + 10 * intArray[1] + 100 * intArray[2] + 1000 * intArray[2] + 10000 * intArray[1] + 100000 * intArray[0];
         System.out.println("Palindrome found: " + palindrome);
@@ -65,10 +65,10 @@ public class EulerExercise004 {
     //test if a 6-entry integer array is a palindrome
     private static boolean isPalindrome(int[] intArray) {
         int arrLength = intArray.length;
-        return (intArray[0] == intArray[arrLength - 1] && intArray[1] == intArray[arrLength - 2] && (intArray[2] == intArray[3]) || arrLength == 5);
+        return (intArray[0] == intArray[5] && intArray[1] == intArray[4] && (intArray[2] == intArray[3]));
     }
 
     public static void main(String[] args) {
-        System.out.println(palindrome(199199));
+        System.out.println(palindrome(101102));
     }
 }
