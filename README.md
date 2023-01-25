@@ -3,6 +3,8 @@
 <p align="center"> <a href = "https://www.hackerrank.com/StevenMReale"><img src = "hackerrank_logo.png"></a> </p>
 <h1 align = "center">Project Solutions by Steven Reale</h2>
 
+<h3 align = "center"> <a href = "#project-euler">Project Euler+</a> | <a href = "#30-days-of-code">30 Days of Code</a> </h3>
+
 ## [Project Euler+](https://www.hackerrank.com/results/projecteuler/StevenMReale)
 | Project                                                                                                                                  | Score     | Solution                                                 |
 |------------------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------|
