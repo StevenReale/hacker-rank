@@ -1,4 +1,4 @@
-package steven.reale;
+package steven.reale.euler;
 
 public class EulerExercise018 {
 

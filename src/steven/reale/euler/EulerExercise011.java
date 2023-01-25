@@ -1,4 +1,4 @@
-package steven.reale;
+package steven.reale.euler;
 
 /*
 Given a 20x20 grid of integers, returns the largest product of 4 contiguous integers up, down, left, right, or diagonally.

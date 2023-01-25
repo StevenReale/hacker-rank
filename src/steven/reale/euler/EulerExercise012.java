@@ -1,4 +1,4 @@
-package steven.reale;
+package steven.reale.euler;
 
 /*
 Returns the first triangular number to have more than a given N divisors

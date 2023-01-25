@@ -1,4 +1,4 @@
-package steven.reale;
+package steven.reale.euler;
 
 /*
 Returns the greatest product of K consecutive digits in a given N-digit number.

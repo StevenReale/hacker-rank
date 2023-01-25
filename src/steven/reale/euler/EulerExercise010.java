@@ -1,4 +1,4 @@
-package steven.reale;
+package steven.reale.euler;
 
 import java.util.ArrayList;
 import java.util.Arrays;
