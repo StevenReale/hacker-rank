@@ -37,12 +37,14 @@ public class EulerExercise004 {
         while (testInt > 0) {
             intList.add(testInt % 10);
             testInt /= 10;
+
         }
         return intList.get(0) == intList.get(5) && intList.get(1) == intList.get(4) && intList.get(2) == intList.get(3);
     }
 
     public static void main(String[] args) {
 
+
         System.out.println(palindrome(999999));
-    }
+  }
 }
