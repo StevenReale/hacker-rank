@@ -36,4 +36,5 @@
 | **Day 1:** [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)                                  | [Solution](src/steven/reale/thirtydays/Day1.java) |
 | **Day 2:** [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                                    | [Solution](src/steven/reale/thirtydays/Day2.java) |
 | **Day 3:** [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](src/steven/reale/thirtydays/Day3.java) |
-| **Day 4:** [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)              | [Solution](src/steven/reale/thirtydays/Day4.java) |
+| **Day 4:** [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)                   | [Solution](src/steven/reale/thirtydays/Day4.java) |
+| **Day 5:** [Loops](https://www.hackerrank.com/challenges/30-loops/problem)                                            | [Solution](src/steven/reale/thirtydays/Day5.java) |
