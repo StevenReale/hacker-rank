@@ -40,4 +40,5 @@
 | **Day 5:** [Loops](https://www.hackerrank.com/challenges/30-loops/problem)                                            | [Solution](src/steven/reale/thirtydays/Day5.java) |
 | **Day 6:** [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                               | [Solution](src/steven/reale/thirtydays/Day6.java) |
 | **Day 7:** [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                                          | [Solution](src/steven/reale/thirtydays/Day7.java) |
-| **Day 8:** [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)                           | [Solution](src/steven/reale/thirtydays/Day8.java) |
+| **Day 8:** [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)            | [Solution](src/steven/reale/thirtydays/Day8.java) |
+| **Day 9:** [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)             | [Solution](src/steven/reale/thirtydays/Day9.java) |
