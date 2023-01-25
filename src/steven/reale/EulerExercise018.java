@@ -3,7 +3,7 @@ package steven.reale;
 public class EulerExercise018 {
 
     private static int trianglePath(int[][] triangle) {
-        int pathSum = 0;
+
         for (int i  = triangle.length-1; i > 0; i--) {
             int[] resultantSum = new int[i];
             for (int j = 0; j < i; j++) {
