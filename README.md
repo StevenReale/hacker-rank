@@ -38,3 +38,4 @@
 | **Day 3:** [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](src/steven/reale/thirtydays/Day3.java) |
 | **Day 4:** [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)                   | [Solution](src/steven/reale/thirtydays/Day4.java) |
 | **Day 5:** [Loops](https://www.hackerrank.com/challenges/30-loops/problem)                                            | [Solution](src/steven/reale/thirtydays/Day5.java) |
+| **Day 6:** [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                               | [Solution](src/steven/reale/thirtydays/Day6.java) |
