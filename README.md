@@ -24,5 +24,5 @@
 | **Problem 16:** [Power Digit Sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler016/)                                 | 100.0     | [Solution](src/steven/reale/EulerExercise016.java)                         |
 | **Problem 17:** [Number to Words](https://www.hackerrank.com/contests/projecteuler/challenges/euler017/)                                 | 100.0     | [Solution](src/steven/reale/EulerExercise017.java)                         |
 | **Problem 18:** [Maximum Path Sum I](https://www.hackerrank.com/contests/projecteuler/challenges/euler018/) \*                           | 100.0     | [Solution](src/steven/reale/EulerExercise018.java)                         |
-| \* The previous also solves **Problem 64:** [Maximum Path Sum II](https://www.hackerrank.com/contests/projecteuler/challenges/euler064/) |100.0|
+| \* The previous also solves **Problem 67:** [Maximum Path Sum II](https://www.hackerrank.com/contests/projecteuler/challenges/euler067/) |100.0|
 [^1]: You better believe I'm not giving up yet.
