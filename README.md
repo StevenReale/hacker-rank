@@ -3,7 +3,7 @@
 <p align="center"> <a href = "https://www.hackerrank.com/StevenMReale"><img src = "hackerrank_logo.png"></a> </p>
 <h1 align = "center">Project Solutions by Steven Reale</h2>
 
-##[Project Euler+](https://www.hackerrank.com/results/projecteuler/StevenMReale)
+## [Project Euler+](https://www.hackerrank.com/results/projecteuler/StevenMReale)
 | Project                                                                                                                                  | Score     | Solution                                                 |
 |------------------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------|
 | **Problem 1:** [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/)                             | 100.0     | [Solution](src/steven/reale/euler/EulerExercise001.java) |
@@ -27,7 +27,7 @@
 | \* The previous also solves **Problem 67:** [Maximum Path Sum II](https://www.hackerrank.com/contests/projecteuler/challenges/euler067/) | 100.0     |
 [^1]: You better believe I'm not giving up yet.
 
-##[30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+## [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 | Project                                                                                                           | Solution                                          |
 |-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
 | **Day 0:** [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem)                          | [Solution](src/steven/reale/thirtydays/Day0.java) |
