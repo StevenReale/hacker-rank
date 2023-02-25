@@ -6,6 +6,7 @@ import java.util.List;
 public class EulerExercise010 {
 
     private static long sumOfPrimesUnderN(int given, List<Integer> primes) {
+
         int index = 0;
         long sum = 0;
         while (index < primes.size() && primes.get(index) <= given) {
@@ -24,10 +25,12 @@ public class EulerExercise010 {
                 return false;
             }
         }
-
         return true;
+
     }
+
     private static List<Integer> getPrimeList() {
+
         List<Integer> primes = new ArrayList<>();
         primes.add(2);
         for (int i = 3; i < 1000000; i += 2) {
@@ -36,12 +39,15 @@ public class EulerExercise010 {
             }
         }
         return primes;
+
     }
 
     public static void main(String[] args) {
-        List<Integer> primes = getPrimeList();
 
+        List<Integer> primes = getPrimeList();
         System.out.println(sumOfPrimesUnderN(1000000, primes));
+
     }
+
 }
 
