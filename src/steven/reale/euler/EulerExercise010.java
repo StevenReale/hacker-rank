@@ -45,6 +45,3 @@ public class EulerExercise010 {
     }
 }
 
-//build two parts. First part generates list up to max specification. Second part creates an array using the first
-//part. For HackerRank, I do this manually, but the code that I submit to Github does this automatically
-
