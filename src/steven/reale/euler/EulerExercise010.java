@@ -5,7 +5,7 @@ import java.util.List;
 
 /*
     Returns the sum of all prime numbers less than or equal to a given N.
-    Thanks to Douglas Doughty for working through this solution with me.
+    Thanks to Douglas Doughty (github.com/douglasdoughty) for working through this solution with me.
  */
 
 public class EulerExercise010 {

@@ -5,7 +5,7 @@ import java.util.List;
 
 /*
     Finds the first 6-digit palindromic number less than a given N that is the product of two 3-digit numbers.
-    Thanks to Douglas Doughty for working through this solution with me.
+    Thanks to Douglas Doughty (github.com/douglasdoughty) for working through this solution with me.
 */
 
 public class EulerExercise004 {
