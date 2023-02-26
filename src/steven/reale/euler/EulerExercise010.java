@@ -7,12 +7,9 @@ public class EulerExercise010 {
 
     private static long sumOfPrimesUnderN(int given, List<Integer> primes) {
 
-        int index = 0;
         long sum = 0;
-        while (index < primes.size() && primes.get(index) <= given) {
-            System.out.println(index + " " + primes.get(index));
-            sum += primes.get(index);
-            index++;
+        for (int i = 0; i < primes.size() && primes.get(i) <= given; i++) {
+            sum += primes.get(i);
         }
         return sum;
 
