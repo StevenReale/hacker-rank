@@ -49,5 +49,6 @@
 | **Day 12:** [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)                                 | [Solution](src/steven/reale/thirtydays/Day12.java) |
 | **Day 13:** [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)                       | [Solution](src/steven/reale/thirtydays/Day13.java) |
 | **Day 14:** [Scope](https://www.hackerrank.com/challenges/30-scope/problem)                                             | [Solution](src/steven/reale/thirtydays/Day14.java) |
-| **Day 15:** [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem)                            | [Solution](src/steven/reale/thirtydays/Day15.java) |
+| **Day 15:** [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem)                                 | [Solution](src/steven/reale/thirtydays/Day15.java) |
+| **Day 16:** [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)                                 | [Solution](src/steven/reale/thirtydays/Day16.java) |
 | **Day 25:** [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Solution](src/steven/reale/thirtydays/Day25.java) |
