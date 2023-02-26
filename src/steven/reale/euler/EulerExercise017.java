@@ -3,6 +3,11 @@ package steven.reale.euler;
 import java.util.HashMap;
 import java.util.Map;
 
+/*
+    Returns an expression in words of a given N.
+    e.g., 245678 -> Two Hundred Forty Five Thousand Six Hundred Seventy Eight
+ */
+
 public class EulerExercise017 {
 
     final static long ONE_TRILLION = 1_000_000_000_000L;

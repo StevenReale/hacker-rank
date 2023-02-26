@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /*
-Returns the smallest positive number that is divisible by 1 through a given N
+    Returns the smallest positive number that is divisible by 1 through a given N
  */
 
 public class EulerExercise005 {

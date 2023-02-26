@@ -3,7 +3,7 @@ package steven.reale.euler;
 import java.math.BigInteger;
 
 /*
-Given an M x N grid, where M <= N, returns the number of different paths from top left to bottom right, modulo 10^9 + 7
+    Given an M x N grid, where M <= N, returns the number of different paths from top left to bottom right, modulo 10^9 + 7
  */
 
 public class EulerExercise015 {

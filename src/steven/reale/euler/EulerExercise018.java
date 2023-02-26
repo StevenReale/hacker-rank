@@ -1,5 +1,11 @@
 package steven.reale.euler;
 
+/*
+    Given a triangle of integers, calculates the maximum sum along a path of adjacent numbers from top to bottom.
+    Note: because this solution does not brute-force calculate the sum of all possible paths, it also solves
+    Problem 64, which is the same challenge but with considerably taller triangles.
+ */
+
 public class EulerExercise018 {
 
     private static int trianglePath(int[][] triangle) {

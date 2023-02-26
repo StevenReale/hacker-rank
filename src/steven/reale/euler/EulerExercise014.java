@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /*
-Finds the largest starting number for the longest Collatz chain with a starting number smaller than a given N.
+    Finds the largest starting number for the longest Collatz chain with a starting number smaller than a given N.
  */
 
 public class EulerExercise014 {

@@ -2,7 +2,7 @@ package steven.reale.euler;
 import java.util.Scanner;
 
 /*
-Returns the sum of all even Fibonacci numbers that are less than a given N.
+    Returns the sum of all even Fibonacci numbers that are less than a given N.
  */
 
 public class EulerExercise002 {

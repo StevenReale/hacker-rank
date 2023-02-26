@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /*
-Given N, returns the Nth prime number
+    Given N, returns the Nth prime number
  */
 
 public class EulerExercise007 {

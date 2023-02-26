@@ -4,7 +4,7 @@ import java.math.BigInteger;
 import java.util.Scanner;
 
 /*
-Sums n 50-digit integers and returns the first 10 digits of the result.
+    Sums n 50-digit integers and returns the first 10 digits of the result.
  */
 
 public class EulerExercise013 {

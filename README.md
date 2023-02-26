@@ -32,15 +32,16 @@
 [^1]: You better believe I'm not giving up yet.
 
 ## [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
-| Project                                                                                                               | Solution                                          |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
-| **Day 0:** [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem)                              | [Solution](src/steven/reale/thirtydays/Day0.java) |
-| **Day 1:** [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)                                  | [Solution](src/steven/reale/thirtydays/Day1.java) |
-| **Day 2:** [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                                    | [Solution](src/steven/reale/thirtydays/Day2.java) |
-| **Day 3:** [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](src/steven/reale/thirtydays/Day3.java) |
-| **Day 4:** [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)                   | [Solution](src/steven/reale/thirtydays/Day4.java) |
-| **Day 5:** [Loops](https://www.hackerrank.com/challenges/30-loops/problem)                                            | [Solution](src/steven/reale/thirtydays/Day5.java) |
-| **Day 6:** [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                               | [Solution](src/steven/reale/thirtydays/Day6.java) |
-| **Day 7:** [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                                          | [Solution](src/steven/reale/thirtydays/Day7.java) |
-| **Day 8:** [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)            | [Solution](src/steven/reale/thirtydays/Day8.java) |
-| **Day 9:** [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)             | [Solution](src/steven/reale/thirtydays/Day9.java) |
+| Project                                                                                                               | Solution                                           |
+|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| **Day 0:** [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem)                              | [Solution](src/steven/reale/thirtydays/Day0.java)  |
+| **Day 1:** [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)                                  | [Solution](src/steven/reale/thirtydays/Day1.java)  |
+| **Day 2:** [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                                    | [Solution](src/steven/reale/thirtydays/Day2.java)  |
+| **Day 3:** [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](src/steven/reale/thirtydays/Day3.java)  |
+| **Day 4:** [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)                   | [Solution](src/steven/reale/thirtydays/Day4.java)  |
+| **Day 5:** [Loops](https://www.hackerrank.com/challenges/30-loops/problem)                                            | [Solution](src/steven/reale/thirtydays/Day5.java)  |
+| **Day 6:** [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                               | [Solution](src/steven/reale/thirtydays/Day6.java)  |
+| **Day 7:** [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                                          | [Solution](src/steven/reale/thirtydays/Day7.java)  |
+| **Day 8:** [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)            | [Solution](src/steven/reale/thirtydays/Day8.java)  |
+| **Day 9:** [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)                                  | [Solution](src/steven/reale/thirtydays/Day9.java)  |
+| **Day 10:** [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)                         | [Solution](src/steven/reale/thirtydays/Day10.java) |

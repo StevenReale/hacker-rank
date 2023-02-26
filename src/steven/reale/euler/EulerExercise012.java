@@ -1,7 +1,7 @@
 package steven.reale.euler;
 
 /*
-Returns the first triangular number to have more than a given N divisors
+    Returns the first triangular number to have more than a given N divisors
  */
 
 public class EulerExercise012 {

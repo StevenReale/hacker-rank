@@ -3,7 +3,7 @@ package steven.reale.euler;
 import java.util.*;
 
 /*
-Returns the largest prime factor of a given N.
+    Returns the largest prime factor of a given N.
  */
 
 public class EulerExercise003 {

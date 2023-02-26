@@ -3,6 +3,11 @@ package steven.reale.euler;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+    Returns the sum of all prime numbers less than or equal to a given N.
+    Thanks to Douglas Doughty for working through this solution with me.
+ */
+
 public class EulerExercise010 {
 
     private static long sumOfPrimesUnderN(int given, List<Integer> primes) {

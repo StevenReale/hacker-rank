@@ -1,7 +1,7 @@
 package steven.reale.euler;
 
 /*
-Returns the sum of all multiples of 3 and 5 that are less than a given N.
+    Returns the sum of all multiples of 3 and 5 that are less than a given N.
  */
 
 public class EulerExercise001 {

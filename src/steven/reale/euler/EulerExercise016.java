@@ -2,11 +2,11 @@ package steven.reale.euler;
 
 import java.math.BigInteger;
 
-public class EulerExercise016 {
-
-    /*
+/*
     Given an exponent N, returns the sum of all digits in 2^N
-     */
+*/
+
+public class EulerExercise016 {
 
     private static long powerSum(int givenNum) {
         BigInteger base = new BigInteger("2");

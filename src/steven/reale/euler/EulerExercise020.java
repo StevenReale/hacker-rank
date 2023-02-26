@@ -2,6 +2,10 @@ package steven.reale.euler;
 
 import java.math.BigInteger;
 
+/*
+    Given N, calculates the sum of all digits in N!
+ */
+
 public class EulerExercise020 {
 
     private static long factorialSum(int n) {

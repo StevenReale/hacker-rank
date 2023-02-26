@@ -15,7 +15,6 @@ public class Day10 {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
         int n = Integer.parseInt(bufferedReader.readLine().trim());
-
         bufferedReader.close();
 
         String binary = "";
@@ -28,7 +27,7 @@ public class Day10 {
         int maxCount = consecutiveOneCount;
         boolean consecutive = false;
 
-        for (int i = 0; i < binary.length() - 1; i++) {
+        for (int i = 0; i < binary.length(); i++) {
             if (binary.charAt(i) == '1') {
                 if (consecutive) consecutiveOneCount++;
                 else {
@@ -41,7 +40,7 @@ public class Day10 {
             maxCount = Math.max(maxCount, consecutiveOneCount);
         }
 
-        System.out.println(consecutiveOneCount);
+        System.out.println(maxCount);
     }
 
 }
