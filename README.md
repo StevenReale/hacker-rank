@@ -46,4 +46,5 @@
 | **Day 9:** [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)                                    | [Solution](src/steven/reale/thirtydays/Day9.java)  |
 | **Day 10:** [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)                           | [Solution](src/steven/reale/thirtydays/Day10.java) |
 | **Day 11:** [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)                                     | [Solution](src/steven/reale/thirtydays/Day11.java) |
+| **Day 12:** [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)                        | [Solution](src/steven/reale/thirtydays/Day12.java) |
 | **Day 25:** [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Solution](src/steven/reale/thirtydays/Day25.java) |
