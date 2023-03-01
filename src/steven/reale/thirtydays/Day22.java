@@ -35,7 +35,7 @@ class Day22{
     }
 
 //given code begins here
-    public static Node insert(Node22 root,int data){
+    public static Node22 insert(Node22 root,int data){
         if(root==null){
             return new Node22(data);
         }
