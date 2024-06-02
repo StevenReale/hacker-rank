@@ -8,7 +8,7 @@ package steven.reale.euler;
 import java.util.*;
 
 public class EulerExercise022 {
-    private static HashMap<String, Integer> nameScores = new HashMap<>();
+    private static Map<String, Integer> nameScores = new HashMap<>();
 
     private static void createNameScoreMap(List<String> names) {
         Collections.sort(names);

@@ -5,10 +5,11 @@ package steven.reale.euler;
  */
 
 import java.util.HashMap;
+import java.util.Map;
 import java.util.Scanner;
 
 public class EulerExercise012 {
-    private static HashMap<Integer, Integer> divisorMap = new HashMap<Integer, Integer>();
+    private static Map<Integer, Integer> divisorMap = new HashMap<Integer, Integer>();
     private static int triangular(int given) {
         int triangleIndex = 1;
         int triangle;

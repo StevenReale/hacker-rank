@@ -6,9 +6,10 @@ package steven.reale.euler;
  */
 
 import java.util.HashMap;
+import java.util.Map;
 
 public class EulerExercise021 {
-    private static HashMap<Integer, Integer> divisorSums = new HashMap<>();
+    private static Map<Integer, Integer> divisorSums = new HashMap<>();
 
     private static int amicable(int n) {
         int counter = 2;
