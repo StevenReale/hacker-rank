@@ -43,7 +43,7 @@ public class EulerExercise012 {
             int currentTestCase = scanner.nextInt();
             System.out.println(triangular(currentTestCase));
         }
-        
+
         scanner.close();
     }
 }
