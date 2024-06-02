@@ -30,6 +30,7 @@
 | **Problem 19:** [Counting Sundays](https://www.hackerrank.com/contests/projecteuler/challenges/euler019/)                                | N/A[^1]   | In progress <!--[Solution](src/steven/reale/euler/EulerExercise019.java) --> |
 | **Problem 20:** [Factorial Digit Sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler020/)                             | 100.0     | [Solution](src/steven/reale/euler/EulerExercise020.java)                     |
 | **Problem 21:** [Amicable Numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler021/problem) | 100.0 | [Solution](src/steven/reale/euler/EulerExercise021.java)                     |
+| **Problem 23:** [Names Scores](https://www.hackerrank.com/contests/projecteuler/challenges/euler022/problem) | 100.0 | [Solution](src/steven/reale/euler/EulerExercise022.java)                     |
 [^1]: You better believe I'm not giving up yet.
 
 ## [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
